@@ -2,7 +2,7 @@
 layout: post
 title:  "12 startups in 12 months (while doing a full time job)"
 date:   2024-09-08 04:13:17 +0530
-categories: jekyll update
+categories: startups
 ---
 
 
